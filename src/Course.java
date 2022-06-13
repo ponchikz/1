@@ -3,12 +3,9 @@ public class Course {
     String result; //результат
     private int distance; //расстояние
 
-
     public Course(int action) {
         this.distance = action; //действие
-
     }
-
     public String doIt(Team team){
         System.out.println("Пробажать " + distance + " метров");
         result = "Имя команды: "+ team.getName()+ " " + '\n';
@@ -25,3 +22,5 @@ public class Course {
     }
 
 }
+
+

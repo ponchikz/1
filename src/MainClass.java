@@ -11,6 +11,6 @@ public class MainClass {
         Course course = new Course(250);
         String result = course.doIt(team);
         System.out.println(result);
-
     }
+
 }
