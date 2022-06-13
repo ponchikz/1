@@ -15,4 +15,5 @@ public class Team {
     public Person[] getPeoples() {
         return peoples;
     }
+
 }

@@ -20,4 +20,7 @@ public class Course {
         if(value>=distance) result += "Пробежал "+ '\n';
         else result += "Не пробежал "+ '\n';
     }
+
 }
+
+

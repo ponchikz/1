@@ -15,4 +15,5 @@ public class Person {
     public int getCanEatCalories() {
         return canEatCalories;
     }
+
 }

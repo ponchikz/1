@@ -12,4 +12,5 @@ public class MainClass {
         String result = course.doIt(team);
         System.out.println(result);
     }
+
 }
